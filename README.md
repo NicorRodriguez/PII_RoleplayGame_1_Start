@@ -2,7 +2,7 @@
 
 ![UCU](https://github.com/ucudal/PII_Conceptos_De_POO/raw/master/Assets/logo-ucu.png)
 
-### FIT - Universidad Católica del Uruguay
+### FIT - Universidad Católica del Uruguay1
 
 # Encuentros futuros de la Tierra Media
 
