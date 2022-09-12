@@ -1,0 +1,15 @@
+Personajes:
+
+Tipo de personaje
+Items
+Nombre
+Vida
+Inventario
+
+Items:
+
+Tipo de items
+Ataque
+Defensa
+
+
